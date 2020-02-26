@@ -4222,7 +4222,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #377dff;
+  background-color: #d9534f;
 }
 
 .nav-fill .nav-item {
@@ -5497,13 +5497,13 @@ a.badge-indigo:focus, a.badge-indigo.focus {
 
 .list-group-item-action:hover, .list-group-item-action:focus {
   z-index: 1;
-  color: #377dff;
+  color: #d9534f;
   text-decoration: none;
   background-color: transparent;
 }
 
 .list-group-item-action:active {
-  color: #377dff;
+  color: #d9534f;
   background-color: transparent;
 }
 
@@ -13114,12 +13114,12 @@ button:focus {
 }
 
 .u-header__nav-item:hover .u-header__nav-link, .u-header__nav-item:focus .u-header__nav-link {
-  color: #377dff;
+  color: #d9534f;
 }
 
 /* Nav Link */
 .u-header .active > .u-header__nav-link {
-  color: #377dff;
+  color: #d9534f;
 }
 
 .u-header__nav-link {
@@ -19454,7 +19454,7 @@ label.btn {
   z-index: 100;
   width: 2.5rem;
   height: 2.5rem;
-  background-color: #377dff;
+  background-color: #d9534f;
   color: #fff;
   font-size: 0.75rem;
   border-radius: 0.3125rem;
@@ -19551,7 +19551,7 @@ label.btn {
 }
 
 .u-hamburger:hover .u-hamburger__inner, .u-hamburger:hover .u-hamburger__inner::before, .u-hamburger:hover .u-hamburger__inner::after {
-  background-color: #377dff;
+  background-color: #d9534f;
 }
 
 .u-hamburger__box {
